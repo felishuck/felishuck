@@ -1,6 +1,6 @@
-👋 Hi, I’m Felix (@felishuck), a graduated Software Engineer 👨🏻‍💻 from Spain🇪🇸 willing to start his career as a developer. Fascinated by Apple's ecosystem, I started learning Swift during the summers of my time in College. However, when having to choose my last project subject, I ended up developing a multiplatform mobile application using Flutter to challenge myself in that semester. 
+👋 Hi, I’m Felix (@felishuck), a graduated Software Engineer 👨🏻‍💻 from Spain🇪🇸 willing to start his career as a developer. Fascinated by Apple's ecosystem, I started learning Swift during the summers of my time at College. However, when having to choose the subject of my last project, I ended up developing a multiplatform mobile application using Flutter to challenge myself in that semester. 
 
-Because working and studying fulltime was so time consuming 😩, now that I have more time it's the best moment to start working on my personal project and uploading them here to show what I am capable of. 
+Because working and studying fulltime was so time consuming 😩, now that I have more time it's the best moment to start working on my personal projects and uploading them here to show what I am capable of. 
 
 Intereseted not only in iOS or multiplatform development, but also in learning new challenging things. It would be great finding people to work in projects together, as working with people is the best way to learn.
 
