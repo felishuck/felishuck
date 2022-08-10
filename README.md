@@ -4,7 +4,7 @@ Because working and studying fulltime was so time consuming 😩, now that I hav
 
 Intereseted not only in iOS or multiplatform development, but also in learning new challenging things. It would be great finding people to work in projects together, as working with people is the best way to learn.
 
-In the lastest month, I have been learning about SwiftUI, what it seems to be the future of Apple development. Even though it is easy to learn, there are some differences with the traditional storyboard model about how approches the same problems.
+Lately, I have been learning about SwiftUI, what it seems to be the future of Apple development. Even though it is easy to learn, there are some differences with the traditional storyboard model about how approching the same problems.
 
 📫 In case you want to reach me, you can always send me an email to ftineoo@hotmail.com
 
